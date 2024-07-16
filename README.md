@@ -1,4 +1,4 @@
-![Banner](github-header-image.png)
+![Banner](github-header-image.jpg)
 
 
 # 💻 Tech Stack:
