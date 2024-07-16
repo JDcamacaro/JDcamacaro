@@ -1,4 +1,4 @@
-![Banner](github-header-image.png)
+![Banner](github-header-image.jpg)
 
 
 Desarrollador Backend Junior entusiasta y autodidacta con 8 meses de experiencia en el aprendizaje de Java, SpringBoot, Git y GitHub. Apasionado por la creación de aplicaciones web robustas y escalables. Poseo sólidas habilidades de resolución de problemas, pensamiento analítico y trabajo en equipo. Busco una oportunidad para aplicar mis conocimientos y habilidades en un entorno profesional dinámico y colaborativo.
